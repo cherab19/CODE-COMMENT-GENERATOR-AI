@@ -1,0 +1,1 @@
+{"repos": [{"repoId": "t5-small", "repoType": "model", "commitHash": "df1b051c49625cf57a3d0d8d3863ed4d13564fe4", "filePaths": ["model.safetensors", "generation_config.json", "spiece.model", "tokenizer.json", "tokenizer_config.json", "config.json"]}]}
